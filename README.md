@@ -1,13 +1,15 @@
 # Semion Moshkov
-### Data Scientist working across AI and backend engineering.
+### Data Scientist · Applied AI & Backend Engineering
 
-I build systems that put data and models to work: services, agents, search, and automation. My work covers the path from understanding a problem and designing a solution to implementing APIs, connecting data sources, and evaluating the result.
+I develop AI-enabled services and data-driven applications, combining applied data science with backend engineering. My work spans system design, agent orchestration, data processing, and integration with business systems.
 
-Python is my main language. I work with LLMs, data pipelines, and backend services, and contribute to React interfaces when the task calls for it. I pay particular attention to what happens around the model: context, tools, integrations, and whether the output can be trusted.
+Python is my primary language. I work on the engineering around models: connecting tools and knowledge sources, managing state and asynchronous workflows, and building evaluation and observability into the system. My focus is on useful functionality, measurable quality, and maintainable services.
 
 ---
 
 ### Stack
+
+**Focus:** Agent systems · RAG & retrieval · Evaluation & observability
 
 <table>
   <tr>
@@ -36,11 +38,15 @@ Python is my main language. I work with LLMs, data pipelines, and backend servic
   </tr>
   <tr>
     <td width="165"><strong>APIs &amp; Messaging</strong></td>
-    <td><img alt="REST" title="REST" height="24" src="https://img.shields.io/badge/REST-38618A?style=flat" /> <img alt="gRPC" title="gRPC" height="24" src="https://img.shields.io/badge/gRPC-287C7D?style=flat" /> <img alt="Kafka" title="Kafka" height="24" src="https://img.shields.io/badge/Kafka-343034?style=flat&amp;logo=apachekafka&amp;logoColor=white" /></td>
+    <td><img alt="REST" title="REST" height="24" src="https://img.shields.io/badge/REST-38618A?style=flat" /> <img alt="gRPC" title="gRPC" height="24" src="https://img.shields.io/badge/gRPC-287C7D?style=flat" /> <img alt="Kafka" title="Kafka" height="24" src="https://img.shields.io/badge/Kafka-343034?style=flat&amp;logo=apachekafka&amp;logoColor=white" /> <img alt="Celery" title="Celery" height="24" src="https://img.shields.io/badge/Celery-427824?style=flat&amp;logo=celery&amp;logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td width="165"><strong>Observability</strong></td>
+    <td><img alt="Langfuse" title="Langfuse" height="24" src="https://img.shields.io/badge/Langfuse-44576F?style=flat" /> <img alt="Prometheus" title="Prometheus" height="24" src="https://img.shields.io/badge/Prometheus-B84630?style=flat&amp;logo=prometheus&amp;logoColor=white" /> <img alt="Grafana" title="Grafana" height="24" src="https://img.shields.io/badge/Grafana-AE591E?style=flat&amp;logo=grafana&amp;logoColor=white" /></td>
   </tr>
   <tr>
     <td width="165"><strong>Tooling &amp; Testing</strong></td>
-    <td><img alt="uv" title="uv" height="24" src="https://img.shields.io/badge/uv-7547A4?style=flat&amp;logo=uv&amp;logoColor=white" /> <img alt="Ruff" title="Ruff" height="24" src="https://img.shields.io/badge/Ruff-506D22?style=flat&amp;logo=ruff&amp;logoColor=white" /> <img alt="pytest" title="pytest" height="24" src="https://img.shields.io/badge/pytest-267C9E?style=flat&amp;logo=pytest&amp;logoColor=white" /></td>
+    <td><img alt="uv" title="uv" height="24" src="https://img.shields.io/badge/uv-7547A4?style=flat&amp;logo=uv&amp;logoColor=white" /> <img alt="Ruff" title="Ruff" height="24" src="https://img.shields.io/badge/Ruff-506D22?style=flat&amp;logo=ruff&amp;logoColor=white" /> <img alt="pytest" title="pytest" height="24" src="https://img.shields.io/badge/pytest-267C9E?style=flat&amp;logo=pytest&amp;logoColor=white" /> <img alt="mypy" title="mypy" height="24" src="https://img.shields.io/badge/mypy-365E8C?style=flat" /> <img alt="pre-commit" title="pre-commit" height="24" src="https://img.shields.io/badge/pre--commit-866220?style=flat&amp;logo=precommit&amp;logoColor=white" /></td>
   </tr>
   <tr>
     <td width="165"><strong>Infrastructure</strong></td>
@@ -52,6 +58,3 @@ Python is my main language. I work with LLMs, data pipelines, and backend servic
   </tr>
 </table>
 
-<br />
-
-**What keeps me curious:** agents that can carry out useful work, better ways to retrieve and use knowledge, and the engineering that makes AI systems dependable.
