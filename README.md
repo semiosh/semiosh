@@ -1,36 +1,26 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/semiosh/semiosh/main/assets/header.svg" alt="semiosh — Semion Moshkov · Data Scientist · AI agents &amp; backend" width="100%" />
-</p>
+## Data Scientist · AI agents & backend
 
-### Привет, я Семён
+Разрабатываю LLM-системы для работы с документами и знаниями: агентные сценарии, RAG, извлечение данных и API. Основной язык — Python. Работаю на стыке Data Science и backend-разработки, в том числе с задачами LegalTech.
 
-**Data Scientist. Работаю с AI-агентами и бэкендом.**
-
-Разрабатываю LLM-системы для работы с документами и знаниями: от поиска и извлечения данных до агентных сценариев и API. Основной язык — Python. Среди рабочих задач — LegalTech, RAG, интеграции с моделями и проверка качества ответов.
-
-Мне интересно, как превратить возможности модели в полезный сервис: дать агенту инструменты, подключить источники, сохранить контекст и сделать результат проверяемым.
-
-<br />
+Мне интересны агенты, которые умеют пользоваться инструментами и источниками, сохранять контекст и выдавать проверяемый результат.
 
 ### Стек
 
-| Направление | С чем работаю |
+| Направление | Технологии |
 | :--- | :--- |
-| **AI & LLM** | LangGraph · LangChain · RAG · MCP · GigaChat · OpenAI API |
-| **Backend** | Python · FastAPI · Pydantic · async / await |
-| **Данные** | PostgreSQL · SQLAlchemy · Redis · pandas · NumPy · scikit-learn |
-| **Разработка** | Docker · Git · pytest · Ruff |
+| **Языки** | Python · SQL · TypeScript |
+| **AI & LLM** | LangGraph · LangChain · RAG · MCP |
+| **Модели и API** | OpenAI · Anthropic / Claude · GigaChat |
+| **Backend** | FastAPI · Pydantic · asyncio · SQLAlchemy |
+| **Хранение и поиск** | PostgreSQL · Redis · Qdrant · S3 |
+| **Данные и ML** | pandas · NumPy · scikit-learn |
+| **Интеграции** | Kafka · REST API · gRPC |
+| **Разработка** | Docker · Git · pytest · Ruff · uv |
 
-**Иногда фронтенд:** вношу правки в React-интерфейсы, работаю с TypeScript и Vite.
+**Дополнительно:** React · TypeScript · Vite — небольшие доработки интерфейсов.
 
-<br />
+### Профессиональные интересы
 
-### Что мне интересно
-
-- **Агенты и инструменты** — оркестрация, память, вызов внешних сервисов.
-- **Документы и знания** — извлечение, поиск, RAG и ответы с опорой на источники.
-- **Качество LLM-систем** — оценка ответов, трассировка и воспроизводимые проверки.
-
----
-
-<p align="center"><sub>Семён Мошков &nbsp; / &nbsp; semiosh</sub></p>
+- Оркестрация агентов, tool calling и память.
+- Поиск по документам, RAG и ответы с опорой на источники.
+- Оценка качества LLM, трассировка и воспроизводимые проверки.
