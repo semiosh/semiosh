@@ -1,29 +1,22 @@
 # Semion Moshkov
+### Data Scientist working across AI and backend engineering.
 
-**Data Scientist · AI & Backend Engineering**
+I build systems that put data and models to work: services, agents, search, and automation. My work covers the path from understanding a problem and designing a solution to implementing APIs, connecting data sources, and evaluating the result.
 
-I work across applied data science, AI systems, and backend engineering, developing services that connect models, data, and business workflows.
+Python is my main language. I work with LLMs, data pipelines, and backend services, and contribute to React interfaces when the task calls for it. I pay particular attention to what happens around the model: context, tools, integrations, and whether the output can be trusted.
 
-My work spans solution design, service implementation, data processing, and system integration. I focus on translating practical requirements into maintainable software, with attention to evaluation, observability, and reliable operation.
+---
 
-### Technical Stack
+#### Tools I work with
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Python · SQL · TypeScript |
-| **AI & LLM Systems** | LangGraph · LangChain · RAG · MCP |
-| **Model APIs** | OpenAI · Anthropic / Claude · GigaChat |
-| **Backend** | FastAPI · Pydantic · asyncio · SQLAlchemy |
-| **Storage & Retrieval** | PostgreSQL · Redis · Qdrant · S3 |
-| **Data Science & ML** | pandas · NumPy · scikit-learn |
-| **Integrations** | Kafka · REST APIs · gRPC |
-| **Development Tools** | Docker · Git · pytest · Ruff · uv |
+`Python` `SQL` `FastAPI` `Pydantic` `PostgreSQL` `Redis`
 
-**Frontend contributions:** React · TypeScript · Vite.
+`LangGraph` `LangChain` `MCP` `Qdrant` `OpenAI` `Anthropic` `GigaChat`
 
-### Professional Focus
+`pandas` `NumPy` `scikit-learn` `Docker` `Kafka` `S3`
 
-- Applied AI, agent systems, and workflow automation.
-- Data processing, information retrieval, and knowledge systems.
-- Backend services, APIs, and integration across systems.
-- Evaluation, observability, and software quality.
+<sub>Also: TypeScript, React, SQLAlchemy, gRPC, pytest, Ruff, and uv.</sub>
+
+<br />
+
+**What keeps me curious:** agents that can carry out useful work, better ways to retrieve and use knowledge, and the engineering that makes AI systems dependable.
