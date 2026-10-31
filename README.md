@@ -1,26 +1,26 @@
-## Data Scientist · AI agents & backend
+## Data Scientist · AI Agents & Backend
 
-Разрабатываю LLM-системы для работы с документами и знаниями: агентные сценарии, RAG, извлечение данных и API. Основной язык — Python. Работаю на стыке Data Science и backend-разработки, в том числе с задачами LegalTech.
+I develop LLM-based systems for document processing and knowledge retrieval, with a focus on AI agents, retrieval-augmented generation, information extraction, and backend APIs. My work combines applied data science and Python backend development, including applications in LegalTech.
 
-Мне интересны агенты, которые умеют пользоваться инструментами и источниками, сохранять контекст и выдавать проверяемый результат.
+I focus on integrating language models with tools and data sources, managing agent context, and evaluating the quality and traceability of generated outputs.
 
-### Стек
+### Technical Stack
 
-| Направление | Технологии |
+| Area | Technologies |
 | :--- | :--- |
-| **Языки** | Python · SQL · TypeScript |
-| **AI & LLM** | LangGraph · LangChain · RAG · MCP |
-| **Модели и API** | OpenAI · Anthropic / Claude · GigaChat |
+| **Languages** | Python · SQL · TypeScript |
+| **AI & LLM Systems** | LangGraph · LangChain · RAG · MCP |
+| **Model APIs** | OpenAI · Anthropic / Claude · GigaChat |
 | **Backend** | FastAPI · Pydantic · asyncio · SQLAlchemy |
-| **Хранение и поиск** | PostgreSQL · Redis · Qdrant · S3 |
-| **Данные и ML** | pandas · NumPy · scikit-learn |
-| **Интеграции** | Kafka · REST API · gRPC |
-| **Разработка** | Docker · Git · pytest · Ruff · uv |
+| **Storage & Retrieval** | PostgreSQL · Redis · Qdrant · S3 |
+| **Data Science & ML** | pandas · NumPy · scikit-learn |
+| **Integrations** | Kafka · REST APIs · gRPC |
+| **Development Tools** | Docker · Git · pytest · Ruff · uv |
 
-**Дополнительно:** React · TypeScript · Vite — небольшие доработки интерфейсов.
+**Additional experience:** React, TypeScript, and Vite for targeted frontend updates.
 
-### Профессиональные интересы
+### Areas of Interest
 
-- Оркестрация агентов, tool calling и память.
-- Поиск по документам, RAG и ответы с опорой на источники.
-- Оценка качества LLM, трассировка и воспроизводимые проверки.
+- Agent orchestration, tool calling, and memory management.
+- Document retrieval, RAG pipelines, and source-grounded generation.
+- LLM evaluation, tracing, and reproducible quality checks.
