@@ -7,15 +7,21 @@ Python is my main language. I work with LLMs, data pipelines, and backend servic
 
 ---
 
-#### Tools I work with
+### Technology Stack
 
-`Python` `SQL` `FastAPI` `Pydantic` `PostgreSQL` `Redis`
+**Core languages:** Python · SQL
 
-`LangGraph` `LangChain` `MCP` `Qdrant` `OpenAI` `Anthropic` `GigaChat`
+| Area | Technologies |
+| :--- | :--- |
+| **AI & Agent Systems** | LangGraph · LangChain · MCP · RAG |
+| **Backend Engineering** | FastAPI · Pydantic · asyncio · SQLAlchemy |
+| **Data Science & ML** | pandas · NumPy · scikit-learn |
+| **Storage & Messaging** | PostgreSQL · Redis · Qdrant · S3 · Kafka |
+| **Development & Quality** | Docker · Git · pytest · Ruff · uv |
 
-`pandas` `NumPy` `scikit-learn` `Docker` `Kafka` `S3`
-
-<sub>Also: TypeScript, React, SQLAlchemy, gRPC, pytest, Ruff, and uv.</sub>
+**Model integrations** &nbsp; OpenAI · Anthropic / Claude · GigaChat<br />
+**Service interfaces** &nbsp; REST APIs · gRPC<br />
+**Additional frontend experience** &nbsp; React · TypeScript · Vite
 
 <br />
 
