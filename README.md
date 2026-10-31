@@ -1,37 +1,36 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/semiosh/semiosh/main/assets/header.svg" alt="semiosh — Семён Мошков" width="100%" />
+  <img src="https://raw.githubusercontent.com/semiosh/semiosh/main/assets/header.svg" alt="semiosh — Semion Moshkov · Data Scientist · AI agents &amp; backend" width="100%" />
 </p>
 
-Привет, я **Семён Мошков** — здесь мои проекты и эксперименты с приложениями.
-Сейчас работаю над своей версией **Cyclop**: превращаю область выреза MacBook в удобное место для повседневных инструментов.
+### Привет, я Семён
+
+**Data Scientist. Работаю с AI-агентами и бэкендом.**
+
+Разрабатываю LLM-системы для работы с документами и знаниями: от поиска и извлечения данных до агентных сценариев и API. Основной язык — Python. Среди рабочих задач — LegalTech, RAG, интеграции с моделями и проверка качества ответов.
+
+Мне интересно, как превратить возможности модели в полезный сервис: дать агенту инструменты, подключить источники, сохранить контекст и сделать результат проверяемым.
 
 <br />
 
-### В работе / Cyclop
+### Стек
 
-**Небольшая панель. Много полезного.**
-
-Нативное приложение для **macOS 15+**: наведи курсор на вырез экрана, чтобы открыть инструменты.
-
-<a href="https://github.com/semiosh/Cyclop">
-  <img src="https://raw.githubusercontent.com/semiosh/Cyclop/main/docs/panel.png" alt="Панель Cyclop на macOS" width="720" />
-</a>
-
-| | Возможности |
+| Направление | С чем работаю |
 | :--- | :--- |
-| **Буфер обмена** | История текста, файлов и изображений; поиск и предпросмотр |
-| **Полка для файлов** | Перетаскивание файлов между окнами через область выреза |
-| **Музыка** | Управление воспроизведением, выбор устройства вывода и громкость |
-| **Переводчик** | Перевод через Apple Translation с языковыми пакетами на Mac |
+| **AI & LLM** | LangGraph · LangChain · RAG · MCP · GigaChat · OpenAI API |
+| **Backend** | Python · FastAPI · Pydantic · async / await |
+| **Данные** | PostgreSQL · SQLAlchemy · Redis · pandas · NumPy · scikit-learn |
+| **Разработка** | Docker · Git · pytest · Ruff |
 
-**Swift · SwiftUI · AppKit · macOS**
-
-[Открыть проект ↗](https://github.com/semiosh/Cyclop) · [Документация на русском](https://github.com/semiosh/Cyclop/blob/main/README.ru.md)
-
-<sub>Моя версия проекта <a href="https://github.com/akalikbergenov/cyclop">akalikbergenov/cyclop</a> с локальными доработками. Исходный проект распространяется по лицензии MIT; авторство сохранено.</sub>
+**Иногда фронтенд:** вношу правки в React-интерфейсы, работаю с TypeScript и Vite.
 
 <br />
+
+### Что мне интересно
+
+- **Агенты и инструменты** — оркестрация, память, вызов внешних сервисов.
+- **Документы и знания** — извлечение, поиск, RAG и ответы с опорой на источники.
+- **Качество LLM-систем** — оценка ответов, трассировка и воспроизводимые проверки.
 
 ---
 
-<p align="center"><sub>semiosh / Семён Мошков</sub></p>
+<p align="center"><sub>Семён Мошков &nbsp; / &nbsp; semiosh</sub></p>
