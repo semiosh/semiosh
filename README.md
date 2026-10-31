@@ -1,8 +1,10 @@
-## Data Scientist · AI Agents & Backend
+# Semion Moshkov
 
-I develop LLM-based systems for document processing and knowledge retrieval, with a focus on AI agents, retrieval-augmented generation, information extraction, and backend APIs. My work combines applied data science and Python backend development, including applications in LegalTech.
+**Data Scientist · AI & Backend Engineering**
 
-I focus on integrating language models with tools and data sources, managing agent context, and evaluating the quality and traceability of generated outputs.
+I work across applied data science, AI systems, and backend engineering, developing services that connect models, data, and business workflows.
+
+My work spans solution design, service implementation, data processing, and system integration. I focus on translating practical requirements into maintainable software, with attention to evaluation, observability, and reliable operation.
 
 ### Technical Stack
 
@@ -17,10 +19,11 @@ I focus on integrating language models with tools and data sources, managing age
 | **Integrations** | Kafka · REST APIs · gRPC |
 | **Development Tools** | Docker · Git · pytest · Ruff · uv |
 
-**Additional experience:** React, TypeScript, and Vite for targeted frontend updates.
+**Frontend contributions:** React · TypeScript · Vite.
 
-### Areas of Interest
+### Professional Focus
 
-- Agent orchestration, tool calling, and memory management.
-- Document retrieval, RAG pipelines, and source-grounded generation.
-- LLM evaluation, tracing, and reproducible quality checks.
+- Applied AI, agent systems, and workflow automation.
+- Data processing, information retrieval, and knowledge systems.
+- Backend services, APIs, and integration across systems.
+- Evaluation, observability, and software quality.
